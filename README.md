@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1428514875.svg)](https://doi.org/10.5281/zenodo.23538759)
+
 # 2026 Chocó Earthquake - Ground-Motion Records and ShakeMaps
 
 This repository collects ground-motion data and visualization products associated with the **2026 Chocó earthquake in Colombia**. It is intended to provide access to earthquake recordings and interactive ShakeMaps for selected Colombian cities.
