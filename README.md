@@ -43,3 +43,6 @@ The repository currently contains the `AT2 V1.0/` directory with ground-motion r
 If you use materials from this repository in research, technical reports, or presentations, please acknowledge the authors and reference this repository.
 
 **Note:** Recorded ground motions and spatially estimated ground-motion intensities are distinct products. Users should consult the associated metadata and methodology before using the maps for engineering applications.
+
+## Citation
+Arteta, C., Caballero, J., & Pajaro Miranda, C. A. (2026). Choco 2026 GM Records and ShakeMaps: v1.0 (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23538760
