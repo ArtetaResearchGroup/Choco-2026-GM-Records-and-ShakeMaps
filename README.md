@@ -16,7 +16,7 @@ This repository collects ground-motion data and visualization products associate
 
 - Cali
 - Manizales
-- Armenia and Dosquebradas
+- Pereira and Dosquebradas
 
 ## Repository structure
 
