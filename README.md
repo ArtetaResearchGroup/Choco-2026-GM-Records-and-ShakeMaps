@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1428514875.svg)](https://doi.org/10.5281/zenodo.23538760)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23538760.svg)](https://doi.org/10.5281/zenodo.23538760)
 
 # 2026 Chocó Earthquake - Ground-Motion Records and ShakeMaps
 
