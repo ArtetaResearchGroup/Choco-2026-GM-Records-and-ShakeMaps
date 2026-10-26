@@ -47,4 +47,4 @@ If you use materials from this repository in research, technical reports, or pre
 **Note:** Recorded ground motions and spatially estimated ground-motion intensities are distinct products. Users should consult the associated metadata and methodology before using the maps for engineering applications.
 
 ## Citation
-Arteta, C., Caballero, J., Pajaro Miranda, C. A., Macedo, J., & Liu, C. (2026). Choco 2026 GM Records and ShakeMaps (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23538760
+Arteta, C. A., Caballero, J., Pajaro Miranda, C. A., Macedo, J., & Liu, C. (2026). Choco 2026 GM Records and ShakeMaps (Version v1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23538760
