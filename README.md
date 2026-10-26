@@ -32,14 +32,14 @@ The repository currently contains the `AT2 V1.0/` directory with ground-motion r
 
 **Version 1.0 — AT2:** Initial release of ground-motion recordings, flatfile and ShakeMaps.
 
-## Authors
+## Authors and Affiliations
 
-- **Arteta, C** (carteta@uninorte.edu.co)
-- **Caballero, J** (jesus.caballeroc@unisimon.edu.co) 
-- **Pájaro, C** (cesar.pajaromiranda@canterbury.ac.nz)
-- **Macedo, J.**
-- **Liu, C.**
-
+- **Arteta, C.A.** — Universidad del Norte, Barranquilla, Colombia. [carteta@uninorte.edu.co](mailto:carteta@uninorte.edu.co)
+- **Caballero, J.** — Universidad Simón Bolívar, Barranquilla, Colombia.
+- **Pájaro, C.A.** — University of Canterbury, Christchurch, New Zealand.
+- **Macedo, J.** — Georgia Institute of Technology, Atlanta, GA, USA.
+- **Liu, C.** — Georgia Institute of Technology, Atlanta, GA, USA.
+  
 ## Data use and citation
 
 If you use materials from this repository in research, technical reports, or presentations, please acknowledge the authors and reference this repository.
@@ -47,4 +47,4 @@ If you use materials from this repository in research, technical reports, or pre
 **Note:** Recorded ground motions and spatially estimated ground-motion intensities are distinct products. Users should consult the associated metadata and methodology before using the maps for engineering applications.
 
 ## Citation
-Arteta, C., Caballero, J., Pajaro Miranda, C. A., Macedo, J., & Liu, C. (2026). Choco 2026 GM Records and ShakeMaps: v1.0 (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23538760
+Arteta, C., Caballero, J., Pajaro Miranda, C. A., Macedo, J., & Liu, C. (2026). Choco 2026 GM Records and ShakeMaps (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23538760
