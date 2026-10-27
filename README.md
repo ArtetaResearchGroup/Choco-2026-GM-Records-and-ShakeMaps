@@ -10,7 +10,7 @@ This repository collects ground-motion data and visualization products associate
 |---|---|---|
 | **AT2 ground-motion records** | Acceleration time histories in `.AT2` format. | Available - v1.0 |
 | **Flatfiles** | Tabular ground-motion and station information for analysis and comparison. | Available - v1.0 |
-| **Interactive ShakeMaps** | HTML-based visualizations of ground-motion intensity for selected cities. | To be added |
+| **Interactive ShakeMaps** | HTML-based visualizations of ground-motion intensity for selected cities. | Available - v1.0 |
 
 ### Cities covered by the ShakeMap collection
 
